@@ -1,9 +1,9 @@
 # Aplikasi ATM Sederhana menggunakan Netbeans
 # Identitas
-Nama  : Miftakhul Rohmah
-Kelas : XIRPL1
-No    : 19
-Mapel : Pemrograman Berbasis Objek
+Nama  : Miftakhul Rohmah <br>
+Kelas : XIRPL1 <br>
+No    : 19 <br>
+Mapel : Pemrograman Berbasis Objek<br>
 
 #Screenshot Program
 ![Screenshot](https://github.com/miftakhulrohmah/ATM_netbeans/blob/master/atm1.PNG) <br>
